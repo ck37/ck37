@@ -1,6 +1,6 @@
 ### Hi, I'm Chris 👋
 
-I am finishing my PhD in Biostatistics at UC Berkeley and moving to Boston in August. I’m **seeking a Boston-area/remote postdoc in biomedical deep learning & causal inference**, or similar research scientist position. Prior to my PhD I worked in Washington, DC where I conducted dozens of RCTs to improve voter registration and turnout of underrepresented populations and ran digital marketing \& voter contact programs. I continue to provide data science services to political campaigns, nonprofits, and companies.
+I am finishing my PhD in Biostatistics at UC Berkeley and moving to Boston in August. I’m **seeking a Boston-area/remote postdoc in biomedical deep learning & causal inference**, or similar research scientist position. Prior to my PhD I worked in Washington, DC where I conducted dozens of RCTs to improve voter registration and turnout of underrepresented populations and ran digital marketing programs. I continue to provide data science services to political campaigns, nonprofits, and companies.
 
 - 🌱 My three dissertation projects are:
 
