@@ -6,7 +6,7 @@
 
    1. Constructing interval latent variables via Rasch measurement and multitask, ordinal deep learning, applied to hate speech
    2. A new targeted learning method for causal inference of multiple treatment variables, applied to carcinogenic chemical exposures
-   3. A nested ensemble clinical prediction model, for heart attack risk prediction
+   3. A nested ensemble clinical prediction model, for heart attack risk prediction in electronic health records
 - 🌱 Additional long-term projects include:
 
    4. Deep learning to track social media marketing of vaping to teenagers
