@@ -1,16 +1,16 @@
 ### Hi there 👋
 
 - 🔭 I’m currently finishing my PhD in Biostatistics at UC Berkeley, and moving to Boston this August.
-- 🤔 I’m looking for a Boston-area or remote postdoc focused on biomedical deep learning and causal inference, or similar research scientist position.
+- 🤔 I’m **seeking a Boston-area/remote postdoc in biomedical deep learning & causal inference**, or similar research scientist position.
 - 🌱 My three dissertation projects are:
 
-   1. Constructing interval latent variables via Rasch measurement and multitask, ordinal deep learning, applied to hate speech
-   2. A new targeted learning method for causal inference of multiple treatment variables, applied to carcinogenic chemical exposures
-   3. A nested ensemble clinical prediction model, for heart attack risk prediction in electronic health records
+   1. [Constructing interval latent variables via Rasch measurement and multitask, ordinal deep learning, applied to hate speech](https://hatespeech.berkeley.edu)
+   2. [A new targeted learning method for causal inference of multiple treatment variables, applied to carcinogenic chemical exposures](https://docs.google.com/presentation/d/1of5I8eLh-zhMSuyrHjSI8JA3jHA6GFGqmm1EVfrqCaI/edit)
+   3. [A nested ensemble clinical prediction model, for heart attack risk prediction in electronic health records](https://docs.google.com/presentation/d/1jL7ukjJ95T-J0XbCOd2O-eMr4EGpqF5AzP2VxFoYRMA/edit)
 - 🌱 Additional long-term projects include:
 
-   4. Deep learning to track social media marketing of vaping to teenagers
-   5. Causally motivated, nonparametric variable importance - varimpact software
+   4. Deep learning to track social media marketing of vaping to teenagers - [pilot study](https://www.frontiersin.org/articles/10.3389/fcomm.2019.00075/full)
+   5. Causally motivated, nonparametric variable importance - [varimpact software](https://github.com/ck37/varimpact)
 <!--
 **ck37/ck37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
