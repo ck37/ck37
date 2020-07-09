@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently finishing my PhD in Biostatistics at UC Berkeley, and moving to Boston this August.
-- 🤔 I’m looking for a Boston-area or remote postdoc focused on biomedical deep learning and causal inference.
+- 🤔 I’m looking for a Boston-area or remote postdoc focused on biomedical deep learning and causal inference, or similar research scientist position.
 - 🌱 My three dissertation projects are:
 
    1. Constructing interval latent variables via Rasch measurement and multitask, ordinal deep learning, applied to hate speech
