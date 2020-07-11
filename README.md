@@ -1,6 +1,6 @@
 ### Hi, I'm Chris 👋
 
-I am finishing my PhD in Biostatistics at UC Berkeley and moving to Boston in August. I’m **seeking a Boston-area/remote postdoc in biomedical deep learning & causal inference**, or similar research scientist position. I also provide data science services to campaigns, nonprofits, and companies.
+I am finishing my PhD in Biostatistics at UC Berkeley and moving to Boston in August. I’m **seeking a Boston-area/remote postdoc in biomedical deep learning & causal inference**, or similar research scientist position. I also provide data science consulting services from time to time.
 
 - 🌱 My three dissertation projects are:
 
