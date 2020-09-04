@@ -1,6 +1,6 @@
 ### Hi, I'm Chris 👋
 
-I am finishing my PhD in Biostatistics at UC Berkeley and moving to Boston in August. I will begin a postdoctoral fellowship at Harvard Medical School's [Department of Biomedical Informatics](https://dbmi.hms.harvard.edu/) in September. I also provide data science consulting services from time to time.
+I am finishing my PhD in Biostatistics at UC Berkeley and moving to Boston in August. I will begin a postdoctoral fellowship in [biomedical informatics](https://dbmi.hms.harvard.edu/) at Harvard Medical School in September. I also provide data science consulting services from time to time.
 
 - 🌱 My three dissertation projects are:
 
