@@ -1,6 +1,6 @@
 ### Hi, I'm Chris 👋
 
-I am a postdoctoral fellow in [biomedical informatics](https://dbmi.hms.harvard.edu/) at Harvard Medical School, with a PhD in biostatistics from UC Berkeley. I also provide data science consulting services from time to time.
+I am a postdoctoral fellow in [biomedical informatics](https://dbmi.hms.harvard.edu/) at Harvard Medical School, with a PhD in biostatistics from UC Berkeley.
 
 - 🌱 My three dissertation projects are:
 
