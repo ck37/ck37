@@ -1,6 +1,6 @@
 ### Hi, I'm Chris 👋
 
-I am a postdoctoral fellow in [biomedical informatics](https://dbmi.hms.harvard.edu/) at Harvard Medical School, with a PhD in biostatistics from UC Berkeley.
+I am a postdoctoral fellow in [biomedical informatics](https://dbmi.hms.harvard.edu/) at Harvard Medical School, with a PhD in biostatistics from UC Berkeley. Current projects include measuring & reducing overprescription of opiods following surgery, and using deep learning to analyze surgical videos and operative notes to evaluate surgical skill and risk of complications.
 
 - 🌱 My three dissertation projects are:
 
