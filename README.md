@@ -4,8 +4,8 @@ I am a postdoctoral fellow in [biomedical informatics](https://dbmi.hms.harvard.
 
 - 🌱 My main postdoc projects are:
 
-   1. Measuring overprescription of opiods following surgery, and reducing overprescribing through prescription guidelines and provider interventions.
-   2. Analyze surgical videos and operative notes with deep learning to evaluate surgical skill and risk of complications.
+   1. Measuring consumption of opiods following surgery, and reducing overprescribing through prescription guidelines and provider interventions.
+   2. Deep learning for surgical videos and operative notes to evaluate surgical skill and risk of complications.
 - 🌱 My three dissertation projects are:
 
    3. [Constructing interval variables via faceted Rasch measurement and multitask deep learning, applied to hate speech](https://hatespeech.berkeley.edu)
