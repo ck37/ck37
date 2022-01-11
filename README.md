@@ -2,7 +2,7 @@
 
 I am an instructor in psychiatry at Massachusetts General Hospital / Harvard Medical School, with a [PhD in biostatistics](https://publichealth.berkeley.edu/academics/biostatistics/biostatistics-phd/) from UC Berkeley. I work in Jordan Smoller's [Center for Precision Psychiatry](https://www.massgeneral.org/psychiatry/research/center-for-precision-psychiatry).
 
-- 🌱 Project from my postdoc include:
+- 🌱 Projects from my postdoc include:
 
    1. Measuring consumption of opiods following surgery, and reducing overprescribing through prescription guidelines and provider interventions.
    2. Deep learning for surgical videos and operative notes to evaluate surgical skill and risk of complications.
